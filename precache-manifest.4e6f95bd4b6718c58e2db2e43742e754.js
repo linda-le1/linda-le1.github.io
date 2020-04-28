@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "285c8a888c564922c3c6",
+    "revision": "f35c726866b764016d31",
     "url": "/portfolio/static/css/main.0b18d711.chunk.css"
   },
   {
-    "revision": "285c8a888c564922c3c6",
-    "url": "/portfolio/static/js/main.285c8a88.chunk.js"
+    "revision": "f35c726866b764016d31",
+    "url": "/portfolio/static/js/main.f35c7268.chunk.js"
   },
   {
     "revision": "0fad4c0f10d57b530fe4",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Linda_Le_Resume.7049b191.pdf"
   },
   {
-    "revision": "259505625552e836898238414e7cb27d",
+    "revision": "b04383a48d01913e9e626ffddfe5ddd8",
     "url": "/portfolio/index.html"
   }
 ];
