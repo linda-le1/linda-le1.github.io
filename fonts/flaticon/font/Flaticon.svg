@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2020-4-28: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Tue Apr 28 04:37:35 2020
+ By root
+
+</metadata>
+<defs>
+<font id="Flaticon" horiz-adv-x="200" >
+  <font-face 
+    font-family="Flaticon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -64 512 448"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="002-billiard" unicode="&#xf100;" horiz-adv-x="512" 
+d="M256 448c141.376 0 256 -114.624 256 -256s-114.624 -256 -256 -256s-256 114.624 -256 256s114.624 256 256 256zM256 32c88.3516 0 160 71.6484 160 160s-71.6484 160 -160 160s-160 -71.6484 -160 -160s71.6484 -160 160 -160zM300.64 192
+c11.9043 -10.1758 19.3604 -24.3203 19.3604 -40c0 -30.8799 -28.7041 -56 -64 -56s-64 25.1201 -64 56c0 15.6797 7.45605 29.8242 19.3604 40c-11.9043 10.1758 -19.3604 24.3203 -19.3604 40c0 30.8799 28.7041 56 64 56s64 -25.1201 64 -56
+c0 -15.6797 -7.45605 -29.8242 -19.3604 -40zM256 128c17.3438 0 32 11.0078 32 24c0 13.0244 -14.6562 24 -32 24s-32 -10.9756 -32 -24c0 -12.9922 14.6562 -24 32 -24zM256 208c17.3438 0 32 10.9756 32 24s-14.6562 24 -32 24s-32 -10.9756 -32 -24s14.6562 -24 32 -24z
+" />
+  </font>
+</defs></svg>
