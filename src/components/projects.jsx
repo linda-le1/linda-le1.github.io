@@ -1,4 +1,8 @@
 import React, { Component } from "react";
+import angry from "../assets/012-angry.png";
+import cloud from "../assets/008-rain.png";
+import turnip from "../assets/004-turnip-1.png";
+
 
 export default class Projects extends Component {
   render() {
@@ -20,7 +24,7 @@ export default class Projects extends Component {
                 <span className="icon">
                   <img
                     className="icon-hangry-ateball"
-                    src="../images/png/012-angry.png"
+                    src={angry}
                     alt="colorful 8-ball"
                   />
                 </span>
@@ -33,8 +37,8 @@ export default class Projects extends Component {
                   <p>
                     This is a REST API that consumes the Yelp and Google Maps
                     APIs. It returns a JSON object for the front end of the
-                    application. It was created as part of a 5-person group project
-					and entered into Turing's Code Fair.
+                    application. It was created as part of a 5-person group
+                    project and entered into Turing's Code Fair.
                   </p>
                   <p>
                     Tech stack includes Python, Flask, Pytest, TravisCI, and
@@ -51,7 +55,7 @@ export default class Projects extends Component {
                 <span className="icon">
                   <img
                     className="icon-turnip"
-                    src="../images/png/004-turnip-1.png"
+                    src={turnip}
                     alt="adorable turnip"
                   />
                 </span>
@@ -62,13 +66,14 @@ export default class Projects extends Component {
                     </a>
                   </h3>
                   <p>
-                    This Ruby on Rails application takes a user's mood and cuisine preferences and returns curated Spotify playlists.
-					This was created as part of a 4-person group project and selected as a finalist at Turing's
-					Code Fair.
+                    This Ruby on Rails application takes a user's mood and
+                    cuisine preferences and returns curated Spotify playlists.
+                    This was created as part of a 4-person group project and
+                    selected as a finalist at Turing's Code Fair.
                   </p>
                   <p>
-                    Tech stack includes Ruby, Rails, Javascript, PostgreSQL, Sinatra, RSpec,
-					TravisCI, and Heroku.
+                    Tech stack includes Ruby, Rails, Javascript, PostgreSQL,
+                    Sinatra, RSpec, TravisCI, and Heroku.
                   </p>
                 </div>
               </div>
@@ -78,18 +83,26 @@ export default class Projects extends Component {
                 <span className="icon">
                   <img
                     className="icon-raincloud"
-                    src="../images/png/008-rain.png"
+                    src={cloud}
                     alt="happy rain cloud"
                   />
                 </span>
                 <div className="desc">
-                  <h3><a href="https://github.com/linda-le1/sweater_weather">Sweater Weather</a></h3>
+                  <h3>
+                    <a href="https://github.com/linda-le1/sweater_weather">
+                      Sweater Weather
+                    </a>
+                  </h3>
                   <p>
-                    This is a REST API that consumes Google, DarkSky, and Unsplash APIs. It exposes an API that requires
-					an authentication token as well as for CRUD functionality. This was created
-					as a final solo project in less than a week.
+                    This is a REST API that consumes Google, DarkSky, and
+                    Unsplash APIs. It exposes an API that requires an
+                    authentication token as well as for CRUD functionality. This
+                    was created as a final solo project in less than a week.
                   </p>
-				  <p>Tech stack includes Ruby, Rails, RSpec, PostgreSQL, and Heroku.</p>
+                  <p>
+                    Tech stack includes Ruby, Rails, RSpec, PostgreSQL, and
+                    Heroku.
+                  </p>
                 </div>
               </div>
             </div>
