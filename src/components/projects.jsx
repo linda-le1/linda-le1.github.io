@@ -42,12 +42,9 @@ export default class Projects extends Component {
                   </p>
                   <p>
                     Tech stack includes Python, Flask, Pytest, TravisCI, and
-                    Heroku. Swagger API documentation can be found{" "}
-                    <a href="https://hangry-ateball-api.herokuapp.com/api/docs/">
-                      here.
-                    </a>
+                    Heroku.
                     <p>
-                      <br />
+                    <br />
                       <a
                         className="btn btn-primary btn-learn"
                         href="https://github.com/hangry-ateball/hangry-ateball-be"
@@ -55,6 +52,14 @@ export default class Projects extends Component {
                         rel="noopener noreferrer"
                       >
                         Github Repo Link
+                      </a>
+                      <a
+                        className="btn btn-primary btn-learn"
+                        href="https://hangry-ateball-api.herokuapp.com/api/docs/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Swagger Link
                       </a>
                       <a
                         className="btn btn-primary btn-learn"
@@ -85,7 +90,7 @@ export default class Projects extends Component {
                     </a>
                   </h3>
                   <p>
-                    This Ruby on Rails application takes a user's mood and
+                    This Ruby on Rails application takes a user's mood and 
                     cuisine preferences and returns curated Spotify playlists.
                     This was created as part of a 4-person group project and
                     selected as a finalist at Turing's Code Fair.
