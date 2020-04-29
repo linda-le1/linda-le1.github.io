@@ -43,11 +43,11 @@ export default class Sidebar extends Component {
                       Projects
                     </a>
                   </li>
-                  {/* <li>
-                    <a href="#timeline" data-nav-section="timeline">
-                      Timeline
+                  <li>
+                    <a href="#details" data-nav-section="project-details">
+                      Project Highlights
                     </a>
-                  </li> */}
+                  </li>
                 </ul>
               </div>
             </nav>
@@ -115,49 +115,10 @@ export default class Sidebar extends Component {
                   <div>
                     Icons made by{" "}
                     <a
-                      href="https://www.flaticon.com/authors/pixel-perfect"
-                      title="Pixel perfect"
-                    >
-                      Pixel perfect
-                    </a>{" "}
-                    from{" "}
-                    <a href="https://www.flaticon.com/" title="Flaticon">
-                      www.flaticon.com
-                    </a>
-                  </div>
-                  <div>
-                    Icons made by{" "}
-                    <a
-                      href="https://www.flaticon.com/authors/smalllikeart"
-                      title="smalllikeart"
-                    >
-                      smalllikeart
-                    </a>{" "}
-                    from{" "}
-                    <a href="https://www.flaticon.com/" title="Flaticon">
-                      www.flaticon.com
-                    </a>
-                  </div>
-                  <div>
-                    Icons made by{" "}
-                    <a
                       href="https://www.flaticon.com/authors/smashicons"
                       title="Smashicons"
                     >
                       Smashicons
-                    </a>{" "}
-                    from{" "}
-                    <a href="https://www.flaticon.com/" title="Flaticon">
-                      www.flaticon.com
-                    </a>
-                  </div>
-                  <div>
-                    Icons made by{" "}
-                    <a
-                      href="https://www.flaticon.com/authors/iconixar"
-                      title="iconixar"
-                    >
-                      iconixar
                     </a>{" "}
                     from{" "}
                     <a href="https://www.flaticon.com/" title="Flaticon">

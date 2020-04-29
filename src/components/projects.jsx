@@ -31,7 +31,7 @@ export default class Projects extends Component {
                 <div className="desc">
                   <h3>
                     <a href="https://github.com/hangry-ateball/hangry-ateball-be">
-                      Hangry-Ateball-BE
+                      Hangry Ateball API
                     </a>
                   </h3>
                   <p>
@@ -42,10 +42,29 @@ export default class Projects extends Component {
                   </p>
                   <p>
                     Tech stack includes Python, Flask, Pytest, TravisCI, and
-                    Heroku. Swagger UI used for{" "}
+                    Heroku. Swagger API documentation can be found{" "}
                     <a href="https://hangry-ateball-api.herokuapp.com/api/docs/">
-                      documentation.
+                      here.
                     </a>
+                    <p>
+                      <br />
+                      <a
+                        className="btn btn-primary btn-learn"
+                        href="https://github.com/hangry-ateball/hangry-ateball-be"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Github Repo Link
+                      </a>
+                      <a
+                        className="btn btn-primary btn-learn"
+                        href="https://hangry-ateball-api.herokuapp.com/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Production Link
+                      </a>
+                    </p>
                   </p>
                 </div>
               </div>
@@ -75,11 +94,30 @@ export default class Projects extends Component {
                     Tech stack includes Ruby, Rails, Javascript, PostgreSQL,
                     Sinatra, RSpec, TravisCI, and Heroku.
                   </p>
+                  <br />
+                  <p>
+                    <a
+                      className="btn btn-primary btn-learn"
+                      href="https://github.com/linda-le1/turnip-the-beet"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Github Repo Link
+                    </a>
+                    <a
+                      className="btn btn-primary btn-learn"
+                      href="https://turnip-the-beet.herokuapp.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Production Link
+                    </a>
+                  </p>
                 </div>
               </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-              <div className="services color-6">
+              <div className="services color-5">
                 <span className="icon">
                   <img
                     className="icon-raincloud"
@@ -103,6 +141,23 @@ export default class Projects extends Component {
                     Tech stack includes Ruby, Rails, RSpec, PostgreSQL, and
                     Heroku.
                   </p>
+                  <br /><br />
+                  <a
+                    className="btn btn-primary btn-learn"
+                    href="https://github.com/linda-le1/sweater_weather"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Github Repo Link
+                  </a>
+                  <a
+                    className="btn btn-primary btn-learn"
+                    href="https://dashboard.heroku.com/apps/fierce-meadow-03802"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Production Link
+                  </a>
                 </div>
               </div>
             </div>

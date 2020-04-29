@@ -45,7 +45,7 @@ export default class About extends Component {
                         programming school. Throughout the program, I learned
                         new programming languages, tools, and technologies
                         quickly. Most of my programming experience is in Ruby on
-                        Rails. I'm currently learning Python and Javascript.
+                        Rails, but I've also used Python, HTML/CSS, and Javascript. 
                       </p>
                       <p>
                         Outside of coding, I'm an avid traveler, huge foodie,
