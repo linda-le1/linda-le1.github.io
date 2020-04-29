@@ -141,7 +141,8 @@ export default class Projects extends Component {
                     Tech stack includes Ruby, Rails, RSpec, PostgreSQL, and
                     Heroku.
                   </p>
-                  <br /><br />
+                  <br />
+                  <br />
                   <a
                     className="btn btn-primary btn-learn"
                     href="https://github.com/linda-le1/sweater_weather"
@@ -152,7 +153,7 @@ export default class Projects extends Component {
                   </a>
                   <a
                     className="btn btn-primary btn-learn"
-                    href="https://dashboard.heroku.com/apps/fierce-meadow-03802"
+                    href="https://fierce-meadow-03802.herokuapp.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

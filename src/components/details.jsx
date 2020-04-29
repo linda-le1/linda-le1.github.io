@@ -41,18 +41,18 @@ export default class Timeline extends Component {
                         </h2>
                         <h4>Wins</h4>
                         <li>
-                          Achieving MVP and completing some extensions in 2.5
+                          Achieved MVP and completed some extensions in 2.5
                           weeks
                         </li>
                         <li>
-                          Utilizing git rebase workflow and Agile methodology
+                          Utilized git rebase workflow and Agile methodology
                         </li>
-                        <li>Using Swagger to create API documentation</li>
-                        <li>Creating an app our team wolid actually use</li>
+                        <li>Used Swagger to create API documentation</li>
+                        <li>Created an app our team wolid actually use</li>
                         <li>Team worked 100% remote</li>
                         <br />
                         <h4>Challenges</h4>
-                        <li>Learning Python, Flask, and Pytest</li>
+                        <li>Learned Python, Flask, and Pytest</li>
                         <li>
                           COVID-19 affected live restaurant data and potential
                           application adoption
@@ -92,17 +92,17 @@ export default class Timeline extends Component {
                           <span> Ruby on Rails/Ruby on Sinatra</span>
                         </h2>
                         <h4>Wins</h4>
-                        <li>Delivering MVP within 2 week project deadline</li>
-                        <li>Creating a good user experience</li>
+                        <li>Delivered MVP within 2 week project deadline</li>
+                        <li>Created a good user experience</li>
                         <li>
-                          Achieving high test coverage with 98% on Rails and
+                          Achieved high test coverage with 98% on Rails and
                           100% on Sinatra.
                         </li>
                         <br />
                         <h4>Challenges</h4>
-                        <li>Learning Sinatra / Javascript</li>
+                        <li>Learned Sinatra / Javascript</li>
                         <li>
-                          Working with Spotify Tokens that expire every hour
+                          Worked with Spotify Tokens that expire every hour
                         </li>
                         <li>Reliant on Spotify Web Player</li>
                         <br />
@@ -137,20 +137,20 @@ export default class Timeline extends Component {
                         </h2>
                         <h4>Wins</h4>
                         <li>
-                          Consuming multiple APIs (some of which required
+                          Consumed multiple APIs (some of which required
                           tokens) and providing CRUD functionality
                         </li>
                         <li>
-                          Completing solo final project in less than a week
+                          Completed solo final project in less than a week
                         </li>
                         <li>
-                          Achieving high test coverage for requests, models, and
+                          Achieved high test coverage for requests, models, and
                           services
                         </li>
                         <br />
                         <h4>Challenges</h4>
                         <li>
-                          Experiencing issues with VCR because of time and
+                          Experienced issues with VCR because of time and
                           timezones
                         </li>
                         <li>First project working with supplied wireframes</li>
