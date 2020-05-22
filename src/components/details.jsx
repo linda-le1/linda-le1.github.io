@@ -48,7 +48,7 @@ export default class Timeline extends Component {
                           Utilized git rebase workflow and Agile methodology
                         </li>
                         <li>Used Swagger to create API documentation</li>
-                        <li>Created an app our team wolid actually use</li>
+                        <li>Created an app our team would actually use</li>
                         <li>Team worked 100% remote</li>
                         <br />
                         <h4>Challenges</h4>
